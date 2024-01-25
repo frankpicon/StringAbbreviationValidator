@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/GeicoInterviewApp/obj
+/GeicoInterviewApp/bin/Debug/net6.0
+/GeicoInterviewApp/.vs
+/GeicoInterviewAppTest/bin/Debug/net6.0
+/GeicoInterviewAppTest/obj
+/GeicoInterviewAppTest/bin/Release/net6.0
+/.vs
